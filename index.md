@@ -1,6 +1,6 @@
 # Ishika's First CS193 Homework
 
-## Some favorite things about CS193
+### Some favorite things about CS193
 - The instructors
 - The location of the classroom
 - No PSO in the first week
